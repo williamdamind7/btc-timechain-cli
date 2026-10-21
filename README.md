@@ -53,7 +53,7 @@ Ao executar o comando `btc`, você terá a seguinte saída instantânea:
 Clone o repositório e execute o script de instalação:
 
 ```bash
-git clone [https://github.com/williamdamind7/btc-timechain-cli.git](https://github.com/williamdamind7/btc-timechain-cli.git)
+git clone https://github.com/williamdamind7/btc-timechain-cli.git
 cd btc-timechain-cli
 chmod +x install.sh
 ./install.sh
@@ -65,7 +65,7 @@ Caso prefira executar passo a passo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/williamdamind7/btc-timechain-cli.git](https://github.com/williamdamind7/btc-timechain-cli.git)
+git clone https://github.com/williamdamind7/btc-timechain-cli.git
 cd btc-timechain-cli
 
 # 2. Instale a biblioteca necessária
